@@ -1,0 +1,1 @@
+print("on n'est pas dans script1")
